@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@BAD-YOVI">
-    <img alt="BAD-YOVI-MD" height="400" src="https://file/20240222_023515.jpg">
+    <img alt="BAD-YOVI-MD" height="400" src="https://pixzel/file/20240222_023515.jpg">
   </a>
 </p>
     
