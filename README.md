@@ -2,14 +2,14 @@
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/BAD-YOVI/BAD-YOVI-MD-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/BAD-YOVI/BAD-YOVI-MD-Media">🍫 BAD-YOVI-MD PLUGINS 🍫</a></h3> 
 
 <h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
 
 
 <p align="center">
   <a href="https://youtube.com/@BAD-YOVI">
-    <img alt="BAD-YOVI-MD" height="400" src="https://telegra.ph/file/758549f0de2219884f387.jpg">
+    <img alt="BAD-YOVI-MD" height="400" src="https://file/20240222_023515.jpg">
   </a>
 </p>
     
@@ -17,16 +17,16 @@
    
 <p align="center">
    <a href="https://github.com/BAD-YOVI/BAD-YOVI-MD/fork">
-    <img src="https://img.shields.io/github/forks/BAD-YOVI-MD/BAD-YOVI-MD?style=flat-square&logo=github&color=darkred">
+    <img src="https://20240222_023515.jpg/github/forks/BAD-YOVI-MD/BAD-YOVI-MD?style=flat-square&logo=github&color=darkred">
    </a>
   <a href="https://github.com/BAD-YOVI-MD/BAD-YOVI-MD/stargazers"> 
-     <img src="https://img.shields.io/github/start/BAD-YOVI-MD/BAD-YOVI-MD?style=flat-square&logo=github&color=darkred">
+     <img src="https://20240222_023515.jpg/github/start/BAD-YOVI-MD/BAD-YOVI-MD?style=flat-square&logo=github&color=darkred">
  </a>
 
 
 
   <a aria-label="BAD-YOVI is free to use" href="https://youtube.com/@BAD-YOVI-MD" target="_blank">
-    <img alt="BAD-YOVITechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
+    <img alt="BAD-YOVITechInfo Yt" src="https://20240222_023515.jpg/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
 </p>
@@ -35,9 +35,9 @@
 <p align="center">
 
  <a href="https://github.com/BAD-YOVI-MD">
- <img title="Owner" src="https://img.shields.io/badge/BAD-YOVI-MD-darkred?style=flat-square&logo=github&label=owner"></a>
+ <img title="Owner" src="https://20240222_023515.jpg/badge/BAD-YOVI-MD-darkred?style=flat-square&logo=github&label=owner"></a>
    <a href="https://github.com/BAD-YOVI-MD">
-    <img src="https://img.shields.io/github/followers/BAD-YOVI-MD?style=flat-square&logo=github&color=darkred">
+    <img src="https://20240222_023515.jpg/github/followers/BAD-YOVI-MD?style=flat-square&logo=github&color=darkred">
   </a>
   
 
@@ -57,7 +57,7 @@
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
-  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
+  <img title="Whatsapp-Bot-Javascript" src="https://20240222_023515.jpg/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
 </p>
 
 ---
@@ -67,17 +67,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BAD-YOVI-MD/BAD-YOVI-MD/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://BAD-YOVI-web01.vercel.app/deploy?platform=railway"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
+  <a href="https://github.com/BAD-YOVI-MD/BAD-YOVI-MD/blob/main/temp/deploy-on-vps.md"><img src="https://20240222_023515.jpg/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://BAD-YOVI-web01.vercel.app/deploy?platform=railway"><img src="https://20240222_023515.jpg/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
   <a href="https://suhail-web01.vercel.app/deploy?platform=heroku"> <img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"> </a>
-  <a href="https://suhail-web01.vercel.app/deploy?platform=repl"  > <img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"> </a>
-  <a href="https://suhail-web01.vercel.app/deploy?platform=koyed" > <img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white">    </a>
- <a href="https://suhail-web01.vercel.app/deploy?platform=glitch" > <img src="https://img.shields.io/badge/glitch-033604?style=for-the-badge&logo=glitch&logoColor=darkred"></a>
+  <a href="https://suhail-web01.vercel.app/deploy?platform=repl"  > <img src="https://20240222_023515.jpg/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"> </a>
+  <a href="https://suhail-web01.vercel.app/deploy?platform=koyed" > <img src="https://20240222_023515.jpg/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white">    </a>
+ <a href="https://suhail-web01.vercel.app/deploy?platform=glitch" > <img src="https://20240222_023515.jpg/badge/glitch-033604?style=for-the-badge&logo=glitch&logoColor=darkred"></a>
 </p>
 <p align="center">
-  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://20240222_023515.jpg/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
 <p align="center">Need help? please create an <a href="https://github.com/BAD-YOVI-MD/BAD-YOVI-MD/issues">issue</a></p>
 
