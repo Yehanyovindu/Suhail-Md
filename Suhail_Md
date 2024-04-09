@@ -6,20 +6,20 @@
 #     𝗠𝗨𝗟𝗧𝗜𝗗𝗘𝗩𝗜𝗖𝗘 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗨𝗦𝗘𝗥 𝗕𝗢𝗧        #
 #=============================================#
 # 
-#    * @project_name : Suhail-Md
-#    * @author : @SuhailTechInfo
-#    * @youtube : https://www.youtube.com/c/@SuhailTechInfo
-#    * @description : Suhail-Md ,A Multi-functional whatsapp bot md.
+#    * @project_name : BAD-YOVI-MD
+#    * @author : @BAD-YOVITechInfo
+#    * @youtube : https://www.youtube.com/c/@BAD-YOVITechInfo
+#    * @description : BAD-YOVI ,A Multi-functional whatsapp bot md.
 #    * @version 1.2.9
 # 
-# Don't change this [ /SuhailTechInfo/ ] name!
+# Don't change this [ /BAD-YOVITechInfo/ ] name!
 # Change from below link, else bot not works!
 
   
 
-FROM quay.io/suhailtechinfo/suhail-v2
-RUN git clone https://github.com/SuhailTechInfo/Suhail-Md /root/Suhail
-WORKDIR /root/Suhail
+FROM quay.io/BAD-YOVItechinfo/BAD-YOVI-v2
+RUN git clone https://github.com/BAD-YOVITechInfo/BAD-YOVI /root/BAD-YOVI
+WORKDIR /root/BAD-YOVI
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
